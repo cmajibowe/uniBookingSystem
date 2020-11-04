@@ -7,11 +7,11 @@ You should create a C++ program that performs the task described below. Your pro
 The program
 The program is a booking system that allows users to books spaces at conference sessions. There is a text file called “sessions.txt” which contains a list of available sessions, the time of the session and the number of spaces remaining. An example would be:
 
-	Welcome	9	42
-Metallurgy	10	12
+	Welcome		9	42
+	Metallurgy	10	12
 	Linguistics	10	6
 	Robotics	11	0	
-Robotics	12	5	
+	Robotics	12	5	
 	Psychology	13	3
 	Tradecraft	11	5
 
