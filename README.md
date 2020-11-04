@@ -1,3 +1,5 @@
+#University Booking System
+
 This is a program I created during my first year of university. I was used for an assessment and submitted 12/01/17. The breif for the project was as follows.
 
 You should create a C++ program that performs the task described below. Your program code should adhere to the code policy which can be found on Blackboard. Your code should also be safe, reliable, easy to maintain and well documented. The program should use standard C++ which can be compiled using Visual Studio and/or G++.
