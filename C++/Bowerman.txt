@@ -1,0 +1,8 @@
+Client: Bowerman
+Package: Gold
+Welcome  	9
+Oenology  	10
+Informatics  	11
+Heuristics  	12
+Noology  	14
+Tradecraft  	16

@@ -1,0 +1,8 @@
+Client: glass
+Package: Gold
+Welcome  	9
+Informatics  	11
+Psychology  	12
+Noology  	14
+Robotics  	15
+Tradecraft  	16
