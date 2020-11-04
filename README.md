@@ -1,4 +1,4 @@
-#University Booking System
+<h1>University Booking System</h1>
 
 This is a program I created during my first year of university. I was used for an assessment and submitted 12/01/17. The breif for the project was as follows.
 
